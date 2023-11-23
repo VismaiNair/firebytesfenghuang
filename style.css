@@ -218,7 +218,6 @@ hr{
 	height:100%;
 	background-color:#292929;
 	margin:0px 10px 0px 0px;
-	
 }
 .black-background{
     background-color:black;
@@ -229,4 +228,7 @@ hr{
 input{
   border-radius: 50px;
   padding:15px;
+}
+footer{
+  background-color:black;
 }
