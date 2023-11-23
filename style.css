@@ -231,4 +231,8 @@ input{
 }
 footer{
   background-color:black;
+  position: absolute;
+  bottom:0px;
+  top:15px;
+  margin:0%;
 }
