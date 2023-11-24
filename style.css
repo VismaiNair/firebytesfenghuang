@@ -236,3 +236,7 @@ footer{
   top:15px;
   margin:0%;
 }
+abbr{
+  text-decoration:none;
+}
+
