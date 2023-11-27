@@ -243,4 +243,17 @@ button:hover{
 abbr{
   text-decoration:none;
 }
+.beach-background{
+  background-image: url(https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/landscapes/beach-sunset.png);
+}
 
+.beach-background-cover div{
+  opacity:0.68;
+  margin-top: 10%;
+  margin-left: 20%;
+  margin-bottom:10%;
+  margin-right: 20%;
+}
+h1,h2,h3,h4{
+  font-family: "Arvo", monospace;
+}
