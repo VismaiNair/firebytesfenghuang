@@ -159,7 +159,7 @@ button:hover span:after {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  display: block;
+  display: inline-block;
 }
 
 
